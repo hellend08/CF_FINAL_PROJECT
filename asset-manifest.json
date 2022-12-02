@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cf_final_project/static/css/main.4b7e1e3e.css",
-    "main.js": "/cf_final_project/static/js/main.c80e2e66.js",
-    "static/js/787.991f58cb.chunk.js": "/cf_final_project/static/js/787.991f58cb.chunk.js",
-    "static/media/accessories.png": "/cf_final_project/static/media/accessories.e4e7c68388e85c43e2e0.png",
-    "static/media/nosotros.jpg": "/cf_final_project/static/media/nosotros.bfe4dd969f1db1dd1015.jpg",
-    "static/media/ohdarling-logo.png": "/cf_final_project/static/media/ohdarling-logo.5d517da836ece72b721e.png",
-    "static/media/empaquetado.webp": "/cf_final_project/static/media/empaquetado.9a12842439e376c82a6f.webp",
-    "index.html": "/cf_final_project/index.html",
-    "main.4b7e1e3e.css.map": "/cf_final_project/static/css/main.4b7e1e3e.css.map",
-    "main.c80e2e66.js.map": "/cf_final_project/static/js/main.c80e2e66.js.map",
-    "787.991f58cb.chunk.js.map": "/cf_final_project/static/js/787.991f58cb.chunk.js.map"
+    "main.css": "/CF_FINAL_PROJECT/static/css/main.4b7e1e3e.css",
+    "main.js": "/CF_FINAL_PROJECT/static/js/main.fbabb229.js",
+    "static/js/787.991f58cb.chunk.js": "/CF_FINAL_PROJECT/static/js/787.991f58cb.chunk.js",
+    "static/media/accessories.png": "/CF_FINAL_PROJECT/static/media/accessories.e4e7c68388e85c43e2e0.png",
+    "static/media/nosotros.jpg": "/CF_FINAL_PROJECT/static/media/nosotros.bfe4dd969f1db1dd1015.jpg",
+    "static/media/ohdarling-logo.png": "/CF_FINAL_PROJECT/static/media/ohdarling-logo.5d517da836ece72b721e.png",
+    "static/media/empaquetado.webp": "/CF_FINAL_PROJECT/static/media/empaquetado.9a12842439e376c82a6f.webp",
+    "index.html": "/CF_FINAL_PROJECT/index.html",
+    "main.4b7e1e3e.css.map": "/CF_FINAL_PROJECT/static/css/main.4b7e1e3e.css.map",
+    "main.fbabb229.js.map": "/CF_FINAL_PROJECT/static/js/main.fbabb229.js.map",
+    "787.991f58cb.chunk.js.map": "/CF_FINAL_PROJECT/static/js/787.991f58cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b7e1e3e.css",
-    "static/js/main.c80e2e66.js"
+    "static/js/main.fbabb229.js"
   ]
 }
