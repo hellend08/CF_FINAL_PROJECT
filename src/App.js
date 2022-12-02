@@ -9,7 +9,6 @@ import Footer from "./components/commons/Footer/Footer";
 function App() {
 
   useEffect( () => {
-    console.log('hola')
     document.title = 'Oh! Darling';
   })
 
