@@ -1,0 +1,19 @@
+.form-input input {
+    @apply py-1 px-1.5 text-sm;
+    width: 80%;
+    height: 40px;
+    border: 1px solid #b5b4b4;
+    border-radius: 5px;
+}
+
+input:focus-visible, textarea:focus-visible {
+    outline: 0px;
+}
+
+textarea {
+    @apply py-1 px-1.5 text-sm;
+    width: 80%;
+    height: 100px;
+    border: 1px solid #b5b4b4;
+    border-radius: 5px;
+}
